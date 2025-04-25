@@ -37,4 +37,4 @@ Contribuições são bem-vindas! Siga os passos abaixo para colaborar:
 
 Se você tiver dúvidas, sugestões ou feedback sobre o projeto, entre em contato conosco:
 
-- **E-mail:** transformacaodigital@fjp.mg.gov.br
+- **E-mail:** dados@fjp.mg.gov.br
